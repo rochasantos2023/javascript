@@ -1,0 +1,1 @@
+Resumidamente, quando o usuário digitar algo no campo de entrada e clicar no botão "Obter Valor", a função JavaScript obterValor será acionada, recuperando o valor digitado e exibindo-o em um alerta.
